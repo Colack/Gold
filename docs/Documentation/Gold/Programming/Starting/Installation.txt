@@ -1,0 +1,41 @@
+## Installation ##
+
+!! Warning: !!
+This only applies to the NodeJs Version of Gold. 
+
+# Information #
+
+You can install Gold using one of the following tools:
+
+- PowerShell installation tool. (PS1)
+https://github.com/Shining-Gold-Studios/Gold-Language/blob/main/installer.ps1
+
+- Source Code installation. (ZIP)
+https://github.com/Shining-Gold-Studios/Gold-Language
+
+- Git Cloning. (Directory)
+git clone https://github.com/Shining-Gold-Studios/Gold-Language . >$null 2>&1
+
+You will also need to install different packages to run Gold.
+
+1. readline
+2. open
+3. colors
+4. prettier
+
+The commands for those are:
+
+- npm i readline
+- npm i open
+- npm i colors
+- npm i prettier
+
+# Usage #
+
+Gold includes many tools, these are:
+
+- Gold-Runner
+- megaShell
+- Gold-Save
+
+You can find Information for using these tools in the /Running Directory.

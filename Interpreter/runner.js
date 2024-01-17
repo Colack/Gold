@@ -1,0 +1,2 @@
+var myGoldProgram;
+export { myGoldProgram };

@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "gold-boots",
+  "version": "1.0.11",
+  "description": "Gold Interpreter on the go.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node ./index.mjs"
+  },
+  "author": "Colack",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}

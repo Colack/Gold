@@ -1,0 +1,32 @@
+## Starting ##
+
+!! Warning: !!
+Gold currently only runs on Windows. We are looking for a way to get it running on Linux/MacOs.
+You can try running Gold using a Linux/MacOs MS Powershell Distro, but it will probably be filled with bugs.
+Linux - https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.2
+MacOs - https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-macos?view=powershell-7.2
+
+# Information #
+
+The Gold Programming language is a lightweight, Programming language, using a Python/JavaScript interpreter to run.
+It gets update frequently, with a update coming out every ~1-2 weeks. You can download a version of the language at 
+https://github.com/Shining-Gold-Studios/Gold-Language/releases, or you can go to https://colack.github.io/projects/gold .
+(Its the quicker link anyway.)
+
+# Getting Started #
+
+There are 3 simple tools you need to run/create Gold programs. 
+
+1. A text editor.
+We would recommend VsCode, but notepad works fine too.
+
+2. A Distribution of NodeJS/Python.
+The Python Version is currently still being worked on, but the NodeJS Version is working fine.
+NodeJs - https://nodejs.org/en/
+Python - https://www.python.org/
+
+3. A Distribution of Gold
+You can get a Release from the Link above, or you can clone this repository locally;
+https://github.com/Shining-Gold-Studios/Gold-Installer-Repo
+
+If you have all 3 of these tools, you should be good to go.

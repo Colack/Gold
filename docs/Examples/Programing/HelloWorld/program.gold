@@ -1,0 +1,18 @@
+// Built for Reg Interpreter.
+
+var myGoldProgram = {
+    name: "Example Gold Program",
+    des: "An Example Gold Program for the README file.",
+    int: "regInt",
+    ex: [
+        {
+            fun: "log",
+            val1: "Hello World!"
+        },
+        {
+            fun: "end"
+        }
+    ]
+};
+
+export { myGoldProgram };

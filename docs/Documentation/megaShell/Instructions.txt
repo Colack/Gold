@@ -1,0 +1,57 @@
+## megaShell ##
+
+!! Warning: !!
+megaShell can only be used with the JavaScript version of Gold, the Python version of Gold uses...... Nothing. (Yet)
+You can find the source code of megaShell here:
+- https://github.com/Shining-Gold-Studios/megaShell
+
+# Usage #
+
+Gold uses a local version of megaShell, but megaShell can be installed Globally on your computer using
+- npm i megashelljs -g
+
+You can start megaShell by running the command:
+- npm run megashell
+or by using the local command:
+- node .
+or you can just use the .bin file located in the root folder of Gold.
+
+# Dependencies #
+
+The following NPM/Yarn packages need to be installed to use megaShell:
+
+- clear
+- colors
+- esm
+- figlet
+- inquirer
+- open
+- readline
+
+You can install all of these using the following command:
+- npm i (insert package name here)
+
+# Commands #
+
+megaShell has the following commands:
+
+* clear - clear the screen.
+* exit - exit the shell.
+* open - open a website.
+* reload - reload the entire shell. 
+* help - open the help menu.
+* commands - search for a command, and its information.
+* examples - Show examples of JS code.
+* prefix - Shows the custom commands prefix.
+* create - Create a file.
+* read - Display the contents of a file.
+* delete - Delete a file.
+* update - Update the contents of a file.
+* list - list the contents of a directory.
+* CD - change the current directory.
+* figlet - Create a figlet.
+* hateAll - Enter hateAll mode.
+* session - show the current sessionID.
+* eval - evaluate a string.
+* matrix - Display a matrix.
+* fight - Enter the fighting game.
